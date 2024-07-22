@@ -1,0 +1,1 @@
+Hello Im developer from Russia! Im learning python, html. And linux systems.
