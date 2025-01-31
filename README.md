@@ -33,15 +33,13 @@ Here are some of my favorite projects that I've worked on:
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AuroraOracle&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 --------------------------------------------------------------------------------------
 
 ## 🌐 Connect with Me
 
-See the ....
+See the [Contacts](https://github.com/AuroraOracle/AuroraOracle/blob/main/contacts.md)
 
 --------------------------------------------------------------------------------------
 
